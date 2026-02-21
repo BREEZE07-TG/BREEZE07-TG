@@ -22,7 +22,7 @@ Title: Developer of Teyvat
 Vision: Electro ⚡
 Weapon: Keyboard ⌨️
 Region: Digital Teyvat 🌌
-Specialty: RPG Systems & Backend Engineering
+Specialty: RPG Systems
 ```
 
 ---
@@ -42,7 +42,6 @@ forging powerful systems and crafting interactive worlds.
 ⚔️ **Skilled in:**
 - 🤖 Telegram Bots  
 - 🎮 RPG Systems  
-- 🏗️ Backend Architecture  
 - 🌍 Cloud Deployment  
 
 <br>
