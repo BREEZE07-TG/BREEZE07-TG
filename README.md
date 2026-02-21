@@ -17,9 +17,6 @@
 
 ## 📖 Character Story
 
-<table>
-<tr>
-<td width="60%">
 
 🌙 A young developer wandering through the lands of code,  
 forging powerful systems and crafting interactive worlds.  
@@ -39,12 +36,9 @@ each project becomes a new adventure across digital Teyvat.**
 
 </td>
 
-<td width="40%" align="center">
+<p width="40%" align="center">
 <img src="https://files.catbox.moe/rsb2s9.jpg" width="100%" style="border-radius:12px;" />
-</td>
 
-</tr>
-</table>
 ---
 
 ## 🧿 Elemental Skills (Tech Stack)
