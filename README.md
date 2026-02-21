@@ -1,35 +1,84 @@
-# 💫 About Me:
+<!-- ====== BANNER ====== -->
+<h1 align="center">🌌 Akshad — Developer of Teyvat</h1>
 
-
-
-
-
-
-# 💻 Tech Stack:
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bot+Architect;Game+Mechanics+Designer;Exploring+the+World+of+Code" />
+</p>
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🌠 Adventurer Profile
+
+> ✨ Vision: Electro ⚡  
+> 🗡️ Weapon: Keyboard  
+> 🏹 Region: Digital Teyvat  
+> 🎮 Specialty: Backend Systems & Game Logic  
 
 ---
 
-### 🚀 Deployment & Hosting
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 📖 Character Story
+
+🌙 A young developer wandering through the lands of code,  
+forging powerful systems and crafting interactive worlds.  
+
+⚔️ Skilled in:
+- Building Telegram Bots  
+- Designing RPG Mechanics  
+- Backend & Database Architecture  
+- Deploying across realms (Vercel & Netlify)
 
 ---
 
-### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🧿 Elemental Skills (Tech Stack)
+
+### 🌩️ Languages
+![JavaScript](https://img.shields.io/badge/javascript-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-9370DB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🧙 Framework Arts
+![NodeJS](https://img.shields.io/badge/node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-483D8B?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-4B0082?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 🏯 Data Archon Powers
+![MongoDB](https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-9370DB?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 🌌 Current Quest Log
+
+- 🛠️ Enhancing RPG HP & Stamina Systems  
+- 🌍 Expanding map-zone logic  
+- ⚡ Optimizing backend performance  
+- 📦 Building scalable APIs  
+
+---
+
+## 📊 Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🌠 Vision Quote
+
+> “Every bug defeated makes the system stronger.” ⚔️
