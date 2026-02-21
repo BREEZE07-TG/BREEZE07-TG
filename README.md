@@ -2,7 +2,7 @@
 <h1 align="center">🌌 Breeze — Developer of Teyvat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Codes;" />
 </p>
 
 ---
@@ -35,13 +35,6 @@ forging powerful systems and crafting interactive worlds.
 ![Python](https://img.shields.io/badge/python-9370DB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🧙 Framework Arts
-![NodeJS](https://img.shields.io/badge/node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-483D8B?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-4B0082?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
