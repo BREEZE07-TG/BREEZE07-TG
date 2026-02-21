@@ -34,7 +34,6 @@ forging powerful systems and crafting interactive worlds.
 ⚡ **With an Electro vision and an unbreakable will,  
 each project becomes a new adventure across digital Teyvat.**
 
-</td>
 
 <p width="40%" align="center">
 <img src="https://files.catbox.moe/rsb2s9.jpg" width="100%" style="border-radius:12px;" />
