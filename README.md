@@ -17,7 +17,7 @@
 
 ## 📖 Character Story
 
-<img align="right" src="https://files.catbox.moe/rsb2s9.jpg" width="280px" style="border-radius:15px;" />
+<img align="right" src="https://files.catbox.moe/rsb2s9.jpg" width="280px" style="border-radius:20px;" />
 
 🌙 A young developer wandering through the lands of code,  
 forging powerful systems and crafting interactive worlds.  
