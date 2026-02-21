@@ -1,8 +1,8 @@
 <!-- ====== BANNER ====== -->
-<h1 align="center">🌌 Akshad — Developer of Teyvat</h1>
+<h1 align="center">🌌 Breeze — Developer of Teyvat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bot+Architect;Game+Mechanics+Designer;Exploring+the+World+of+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Code" />
 </p>
 
 ---
