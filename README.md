@@ -53,7 +53,7 @@ each project becomes a new adventure across digital Teyvat.
 
 <td width="40%" align="center">
 
-<img src="https://files.catbox.moe/rsb2s9.jpg" width="250px" style="border-radius:18px;" />
+<img src="https://files.catbox.moe/msri3n.jpg" width="250px" style="border-radius:18px;" />
 
 </td>
 </tr>
