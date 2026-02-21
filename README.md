@@ -22,7 +22,7 @@ Title: Developer of Teyvat
 Vision: Electro ⚡
 Weapon: Keyboard ⌨️
 Region: Digital Teyvat 🌌
-Specialty: RPG Systems
+Specialty: Bot Development & Automation Systems
 ```
 
 ---
