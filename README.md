@@ -1,29 +1,41 @@
-<!-- ====== BANNER ====== -->
+<!-- ======================= -->
+<!-- 🌌 ELECTRO ARCHON README -->
+<!-- ======================= -->
+
 <h1 align="center">🌌 Breeze — Developer of Teyvat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Codes;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Code;Forging+Systems+Like+Artifacts;Ascending+Through+Electro+Energy⚡" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🌠 Adventurer Profile
 
-> ✨ Vision: Electro ⚡  
-> 🗡️ Weapon: Keyboard  
-> 🏹 Region: Digital Teyvat    
+```yaml
+Name: Breeze
+Title: Developer of Teyvat
+Vision: Electro ⚡
+Weapon: Keyboard ⌨️
+Region: Digital Teyvat 🌌
+Specialty: RPG Systems & Backend Engineering
+```
 
 ---
 
 ## 📖 Character Story
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 <td width="60%" valign="top">
 
 🌙 A young developer wandering through the lands of code,  
-forging powerful systems and crafting interactive worlds.  
+forging powerful systems and crafting interactive worlds.
 
 <br>
 
@@ -41,29 +53,34 @@ each project becomes a new adventure across digital Teyvat.
 </td>
 
 <td width="40%" align="center">
-<img src="https://files.catbox.moe/rsb2s9.jpg" width="250px" />
-</td>
 
+<img src="https://files.catbox.moe/rsb2s9.jpg" width="250px" style="border-radius:18px;" />
+
+</td>
 </tr>
 </table>
 </div>
 
 ---
 
-## 🧿 Elemental Skills (Tech Stack)
+## 🧿 Elemental Skills
 
 ### 🌩️ Languages
-![JavaScript](https://img.shields.io/badge/javascript-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-9370DB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/javascript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-9370DB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-7B68EE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-6A5ACD?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
 ### 🏯 Data Archon Powers
-![MongoDB](https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-9370DB?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-6A5ACD?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
@@ -74,7 +91,6 @@ each project becomes a new adventure across digital Teyvat.
 - ⚡ Optimizing backend performance  
 - 📦 Building scalable APIs  
 
-
 ---
 
 ## 🌠 Constellation Network
@@ -82,7 +98,7 @@ each project becomes a new adventure across digital Teyvat.
 <p align="center">
 
 <a href="https://t.me/AquaAcheron">
-  <img src="https://img.shields.io/badge/Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/sorakazeshi">
@@ -90,14 +106,29 @@ each project becomes a new adventure across digital Teyvat.
 </a>
 
 <a href="https://x.com/sorakazeshi">
-  <img src="https://img.shields.io/badge/X-483D8B?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-6A5ACD?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 📊 Character Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+---
 
 ## 🌠 Vision Quote
 
-> “Every bug defeated makes the system stronger.” ⚔️
+> “Every bug defeated makes the system stronger.” ⚔️  
+> ⚡ Even storms bow before persistence.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
