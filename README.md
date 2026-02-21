@@ -17,26 +17,19 @@
 
 ## 📖 Character Story
 
+<img align="right" src="https://files.catbox.moe/rsb2s9.jpg" width="300px" style="border-radius:30px;" />
 
 🌙 A young developer wandering through the lands of code,  
 forging powerful systems and crafting interactive worlds.  
 
-<br>
-
-⚔️ **Skilled in:**
+⚔️ Skilled in:
 - 🤖 Building Telegram Bots  
 - 🎮 Designing RPG Mechanics  
 - 🏗️ Backend & Database Architecture  
 - 🌍 Deploying across realms (Vercel & Netlify)  
 
-<br>
-
-⚡ **With an Electro vision and an unbreakable will,  
-each project becomes a new adventure across digital Teyvat.**
-
-
-<p width="40%" align="center">
-<img src="https://files.catbox.moe/rsb2s9.jpg" width="100%" style="border-radius:12px;" />
+⚡ With an Electro vision and an unbreakable will,  
+each project becomes a new adventure across digital Teyvat.
 
 ---
 
