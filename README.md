@@ -74,17 +74,29 @@ each project becomes a new adventure across digital Teyvat.
 - ⚡ Optimizing backend performance  
 - 📦 Building scalable APIs  
 
+
 ---
 
-## 📊 Battle Stats
+## 🌠 Constellation Network
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<a href="https://t.me/AquaAcheron">
+  <img src="https://img.shields.io/badge/Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/sorakazeshi">
+  <img src="https://img.shields.io/badge/Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://x.com/sorakazeshi">
+  <img src="https://img.shields.io/badge/X-483D8B?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
-
 ---
+
 
 ## 🌠 Vision Quote
 
