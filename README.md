@@ -11,8 +11,7 @@
 
 > ✨ Vision: Electro ⚡  
 > 🗡️ Weapon: Keyboard  
-> 🏹 Region: Digital Teyvat  
-> 🎮 Specialty: Backend Systems & Game Logic  
+> 🏹 Region: Digital Teyvat    
 
 ---
 
