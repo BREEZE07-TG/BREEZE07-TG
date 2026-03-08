@@ -96,7 +96,7 @@ each project becomes a new adventure across digital Teyvat.
 
 <p align="center">
 
-<a href="https://t.me/AquaAcheron">
+<a href="https://t.me/Kibusu">
   <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
