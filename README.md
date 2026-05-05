@@ -5,7 +5,7 @@
 <h1 align="center">🌌 Breeze </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Code;Forging+Systems+Like+Artifacts;Ascending+Through+Electro+Energy⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Code;Ascending" />
 </p>
 
 <p align="center">
