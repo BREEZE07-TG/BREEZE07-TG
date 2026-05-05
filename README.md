@@ -2,7 +2,7 @@
 <!-- 🌌 ELECTRO ARCHON README -->
 <!-- ======================= -->
 
-<h1 align="center">🌌 Breeze — Developer of Teyvat</h1>
+<h1 align="center">🌌 Breeze </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Code;Forging+Systems+Like+Artifacts;Ascending+Through+Electro+Energy⚡" />
@@ -14,40 +14,22 @@
 
 ---
 
-## 🌠 Adventurer Profile
+## 🌠 Profile
 
 ```yaml
 Name: Breeze
-Title: Developer of Teyvat
-Vision: Electro ⚡
-Weapon: Keyboard ⌨️
-Region: Digital Teyvat 🌌
 Specialty: Bot Development & Automation Systems
 ```
 
 ---
 
-## 📖 Character Story
 
 <div align="center">
 <table>
 <tr>
 <td width="60%" valign="top">
 
-🌙 A young developer wandering through the lands of code,  
-forging powerful systems and crafting interactive worlds.
-
 <br>
-
-⚔️ **Skilled in:**
-- 🤖 Telegram Bots  
-- 🎮 RPG Systems  
-- 🌍 Cloud Deployment  
-
-<br>
-
-⚡ With an Electro vision and an unbreakable will,  
-each project becomes a new adventure across digital Teyvat.
 
 </td>
 
@@ -62,7 +44,7 @@ each project becomes a new adventure across digital Teyvat.
 
 ---
 
-## 🧿 Elemental Skills
+## 🧿 Skills
 
 ### 🌩️ Languages
 <p>
@@ -74,7 +56,7 @@ each project becomes a new adventure across digital Teyvat.
 
 ---
 
-### 🏯 Data Archon Powers
+### 🏯 DataBases
 <p>
 <img src="https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -83,20 +65,14 @@ each project becomes a new adventure across digital Teyvat.
 
 ---
 
-## 🌌 Current Quest Log
-
-- 🛠️ Enhancing RPG HP & Stamina Systems  
-- 🌍 Expanding map-zone logic  
-- ⚡ Optimizing backend performance  
-- 📦 Building scalable APIs  
 
 ---
 
-## 🌠 Constellation Network
+## 🌠 Network
 
 <p align="center">
 
-<a href="https://t.me/Kibusu">
+<a href="https://t.me/BreezeSama">
   <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -119,11 +95,6 @@ each project becomes a new adventure across digital Teyvat.
 </p>
 
 ---
-
-## 🌠 Vision Quote
-
-> “Every bug defeated makes the system stronger.” ⚔️  
-> ⚡ Even storms bow before persistence.
 
 ---
 
