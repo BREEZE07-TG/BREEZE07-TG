@@ -25,21 +25,11 @@ Specialty: Bot Development & Automation Systems
 
 
 <div align="center">
-<table>
-<tr>
-<td width="60%" valign="top">
 
-<br>
-
-</td>
-
-<td width="40%" align="center">
 
 <img src="https://files.catbox.moe/msri3n.jpg" width="250px" style="border-radius:18px;" />
 
-</td>
-</tr>
-</table>
+
 </div>
 
 ---
@@ -88,7 +78,7 @@ Specialty: Bot Development & Automation Systems
 
 ---
 
-## 📊 Character Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BREEZE07-TG&theme=tokyonight&hide_border=true&background=00000000"/>
@@ -96,7 +86,6 @@ Specialty: Bot Development & Automation Systems
 
 ---
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
