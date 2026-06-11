@@ -81,7 +81,7 @@ Specialty: Bot Development & Automation Systems
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BREEZE07-TG&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BreezeKun&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 ---
